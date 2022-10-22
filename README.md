@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![beltoforion's github stats](https://github-readme-stats.vercel.app/api?username=beltoforion&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beltoforion&hide=javascript,html,css,jupyter%20notebook&theme=tokyonight)
