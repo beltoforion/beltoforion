@@ -1,4 +1,4 @@
-<a href="https://github.com/drkostas">
+<a href="https://github.com/beltoforion">
     <img src="https://github-stats-alpha.vercel.app/api?username=beltoforion&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
